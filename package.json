@@ -1,0 +1,19 @@
+{
+  "name": "bigchaindbtest",
+  "version": "1.0.0",
+  "description": "test the solution with bigchaindb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juansolution/bigchaindbtest.git"
+  },
+  "author": "j piedrahita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juansolution/bigchaindbtest/issues"
+  },
+  "homepage": "https://github.com/juansolution/bigchaindbtest#readme"
+}
